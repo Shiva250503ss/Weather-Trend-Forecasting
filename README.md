@@ -20,4 +20,3 @@ Several unique analyses are conducted to delve deeper into the data:
 The project's findings emphasize the utility of machine learning models in enhancing weather forecasting accuracy and suggest further avenues for research, including the integration of more diverse data sources and hybrid models.
 
 This repository serves as a resource for those interested in the statistical and machine learning aspects of climate analysis and weather prediction, offering both raw data and detailed analyses for public use and further development.
-
